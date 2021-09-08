@@ -25,4 +25,7 @@ for (let i = 0; i < 6; i++) {
 }
 
 // Console name, energy and happiness level 
-document.write(petName +" has " +happiness + " happiness and " + energy +" energy.");
+console.log('Pet name ', petName);
+console.log('Happiness ', happiness);
+console.log('Energy ', energy);
+console.log(petName, ' has ', happiness, ' happiness and ', energy, ' energy.');
